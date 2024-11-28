@@ -11,7 +11,7 @@ from keras.api.models import Sequential
 from keras.api.layers import Dense, LSTM
 
 # Konstanta
-START = "2015-01-01"
+START = "2024-04-04"
 TODAY = date.today().strftime("%Y-%m-%d")
 
 
