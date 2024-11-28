@@ -4,3 +4,6 @@ pip
 scikit-learn
 streamlit
 yfinance
+plotly
+tensorflow
+keras
